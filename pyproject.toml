@@ -1,5 +1,5 @@
 [project]
-name = "dpp-template"
+name = "PK_H2_AN_01"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,6 +12,8 @@ dependencies = [
     "seaborn>=0.13.2",
     "duckdb>=1.4.1",
     "scikit-learn>=1.7.2",
+    "numpy>=2.3.4",
+    "datetime>=6.0",
 ]
 
 [build-system]
